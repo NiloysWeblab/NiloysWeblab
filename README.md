@@ -21,16 +21,25 @@
 <br/>  
 
 
-## My Skill Set  
+##  SKILLS
 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-</div>
+### Programming Languages
+C | C++ | C# | JavaScript
+
+### Front-End
+HTML5 | CSS3 | Bootstrap | JavaScript
+
+### Database
+MySQL | SQLite
+
+### Tools
+Microsoft Office (MS word, Excel, PowerPoint)
+
+### Design
+Basic Graphics Design | UI/UX Design
+
+### Others
+Data Structures and Algorithms
 
 <br/>  
 
