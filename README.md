@@ -4,8 +4,8 @@
   
 
 <br/>  
-  
 
+  
 ### <div align="center">I'm Niloy,  a student of computer science and engineering</div>  
   
 
@@ -20,21 +20,37 @@
 
 <br/>  
 
-
-###  SKILLS
+### Skills
 
 #### Programming Languages
-C | C++ | C# | JavaScript
+<ul>
+  <li><b>C</b> | <b>C++</b> | <b>C#</b> | <code>JavaScript</code></li>
+</ul>
+
 #### Front-End
-HTML5 | CSS3 | Bootstrap | JavaScript
+<ul>
+  <li><b>HTML5</b> | <b>CSS3</b> | <b>Bootstrap</b> | <code>JavaScript</code></li>
+</ul>
+
 #### Database
-MySQL | SQLite
+<ul>
+  <li><b>MySQL</b> | <b>SQLite</b></li>
+</ul>
+
 #### Tools
-Microsoft Office (MS word, Excel, PowerPoint)
+<ul>
+  <li>Microsoft Office (MS Word, Excel, PowerPoint)</li>
+</ul>
+
 #### Design
-Basic Graphics Design | UI/UX Design
+<ul>
+  <li>Basic Graphics Design | UI/UX Design</li>
+</ul>
+
 #### Others
-Data Structures and Algorithms
+<ul>
+  <li><i>Data Structures and Algorithms</i></li>
+</ul>
 <br/>  
 
 
