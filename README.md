@@ -24,17 +24,17 @@
 
 #### Programming Languages
 <ul>
-  <li><b>C</b> | <b>C++</b> | <b>C#</b> | <code>JavaScript</code></li>
+  <li>C | C++ | C# | JavaScript</li>
 </ul>
 
 #### Front-End
 <ul>
-  <li><b>HTML5</b> | <b>CSS3</b> | <b>Bootstrap</b> | <code>JavaScript</code></li>
+  <li>HTML5 | CSS3 | Bootstrap | JavaScript</li>
 </ul>
 
 #### Database
 <ul>
-  <li><b>MySQL</b> | <b>SQLite</b></li>
+  <li>MySQL | SQLite</li>
 </ul>
 
 #### Tools
@@ -49,7 +49,7 @@
 
 #### Others
 <ul>
-  <li><i>Data Structures and Algorithms</i></li>
+  <li>Data Structures and Algorithms</li>
 </ul>
 <br/>  
 
