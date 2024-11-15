@@ -23,22 +23,22 @@
 
 ##  SKILLS
 
-### Programming Languages
+## Programming Languages
 C | C++ | C# | JavaScript
 
-### Front-End
+## Front-End
 HTML5 | CSS3 | Bootstrap | JavaScript
 
-### Database
+## Database
 MySQL | SQLite
 
-### Tools
+## Tools
 Microsoft Office (MS word, Excel, PowerPoint)
 
-### Design
+## Design
 Basic Graphics Design | UI/UX Design
 
-### Others
+## Others
 Data Structures and Algorithms
 
 <br/>  
