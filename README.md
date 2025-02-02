@@ -64,6 +64,8 @@
 
 
 ## Github Stats 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=NiloysWeblab&theme=default&hide_border=true" alt="NiloysWeblab's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=NiloysWeblab&theme=default&show_icons=true&hide_border=true&count_private=true" alt="NiloysWeblab's GitHub Stats" />
+</div>
 <br/>  
