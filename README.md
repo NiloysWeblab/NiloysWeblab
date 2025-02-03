@@ -3,16 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Niloy,  a student of computer science and engineering</div>  
-  
+<h1> 👋 Hello, Niloy Hasan Nahid </h1>
 
-- 📍 I'm from Bangladesh🇧🇩  
+### About Me
+Hi, I’m Niloy Hasan Nahid, a Computer Science and Engineering student with a passion for competitive programming, developing innovative projects, and continuous learning.
 
-- 🌱 I’m passionate about becoming a software engineer.  
-  
-- 🐍 I'm currently learning Python  
-  
+I am particularly interested in Data Structures and Algorithms, Blockchain, Machine Learning, and Data Science—fields that I believe will shape the future of technology. My goal is to become a Software Engineer, where I can apply my problem-solving skills to build efficient, scalable, and impactful solutions.
 
+I am always eager to collaborate, learn from others, and explore new challenges.
 <br/>  
 
 
