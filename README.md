@@ -1,9 +1,7 @@
+<h1> 👋 Hello,I'm Niloy Hasan Nahid </h1>
 <div align="center">
 <img src="./cover.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-<h1> 👋 Hello, Niloy Hasan Nahid </h1>
 
 ### About Me
 Hi, I’m Niloy Hasan Nahid, a Computer Science and Engineering student with a passion for competitive programming, developing innovative projects, and continuous learning.
