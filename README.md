@@ -1,9 +1,9 @@
-<h1> 👋 Hello,I'm Niloy Hasan Nahid </h1>
+## 👋 Hello, I'm Niloy Hasan Nahid
 <div align="center">
 <img src="./cover.gif" align="center" style="width: 100%" />
 </div>  
 
-### About Me
+## About Me
 Hi, I’m Niloy Hasan Nahid, a Computer Science and Engineering student with a passion for competitive programming, developing innovative projects, and continuous learning.
 
 I am particularly interested in Data Structures and Algorithms, Blockchain, Machine Learning, and Data Science—fields that I believe will shape the future of technology. My goal is to become a Software Engineer, where I can apply my problem-solving skills to build efficient, scalable, and impactful solutions.
